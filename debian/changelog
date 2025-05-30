@@ -1,3 +1,7 @@
+mintsources (2.3.4) xen; urgency=medium
+
+  * Adapted for HoloOS Xen 22
+
 mintsources (2.3.3) zara; urgency=medium
 
   [ Mavroudis Chatzilazaridis ]
