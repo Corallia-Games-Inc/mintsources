@@ -1,7 +1,7 @@
 Source: mintsources
 Section: admin
 Priority: optional
-Maintainer: Clement Lefebvre <root@linuxmint.com>
+Maintainer: Clement Lefebvre <root@linuxmint.com> ; Titimousse <github.com/soleil-des-chats>
 Build-Depends: debhelper-compat (= 13), python3
 Standards-Version: 3.9.5
 
